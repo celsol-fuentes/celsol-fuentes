@@ -3,7 +3,8 @@
 
 
       # EN                                           
-🔭  My name is Celia                                                  
+🔭  My name is Celia
+
 🌱  I'm a recent Data Science grad                    
 🔭  This space will be a lab to learn and share.                                                 
 🤔  Your feedback is welcome!                            
