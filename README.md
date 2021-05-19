@@ -7,7 +7,7 @@
 🌱  I'm a recent Data Science grad                    
 🔭  This space will be a lab to learn and share.                                                 
 🤔  Your feedback is welcome!                            
-📫  Find me on [![LinkedIn][3.2]][3]                   
+📫  Find me on [![LinkedIn][1.2]][1]                   
 ⚡  #Fun fact: After almost drowning, I overcame my fear of water by joining an artistic swimming club.                                   
 
 
@@ -16,7 +16,7 @@
  🌱  Je viens de recevoir mon diplôme en Science des données
  🔭  Cette espace servira de laboratoire pour apprendre et partager
  🤔  Vos observations sont bienvenues!
- 📫  Vous pouvez me rejoindre sur [![LinkedIn][3.2]][3]
+ 📫  Vous pouvez me rejoindre sur [![LinkedIn][1.2]][1]
  ⚡  #Anecdote : Après avoir presque noyé, j'ai surmonté ma peur de l'eau en adhérant à un club de natation artistique.
  
  
