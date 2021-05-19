@@ -14,6 +14,7 @@
 
        # FR                                         
  🔭  Je m'appelle Celia
+ 
  🌱  Je viens de recevoir mon diplôme en Science des données
  🔭  Cette espace servira de laboratoire pour apprendre et partager
  🤔  Vos observations sont bienvenues!
@@ -23,6 +24,7 @@
  
       # ES
  🔭  Me llamo Celia
+ 
  🌱  Soy una graduada reciente en Ciencias de datos
  🔭  Este espacio servirá de laboratorio, para aprender y compartir.
  🤔  ¡Sus comentarios son bienvenidos!
