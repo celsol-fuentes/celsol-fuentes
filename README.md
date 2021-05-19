@@ -44,7 +44,7 @@
  🔭  Este espacio servirá de laboratorio, para aprender y compartir.
  🤔  ¡Sus comentarios son bienvenidos!
  📫  Puedes contactarme en [![LinkedIn][1.2]][1]
- ⚡  ANÉCDOTA: Después de casi ahogarme, superé mi miedo al agua uniéndome a un club de natación artística.
+ ⚡  ANÉCDOTA: Después de casi ahogarme, superé mi miedo al agua uniéndome a un club de nado artístico.
 -->
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/celsol-fuentes/celsol-fuentes/master/linkedin-3-16.png (LinkedIn icon without padding)
