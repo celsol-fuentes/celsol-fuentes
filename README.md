@@ -28,7 +28,7 @@
 🔭  This space will be a lab to learn and share.                                                 
 🤔  Your feedback is welcome!                            
 📫  Find me on [![LinkedIn][1.2]][1]                   
-⚡  FUN FACT: After almost drowning, I overcame my fear of water by joining an artistic swimming club.                                   
+⚡  FUN FACT: I overcame my fear of water by joining an artistic swimming club.                                   
 
                                        
 - Je m'appelle Celia    
@@ -36,7 +36,7 @@
  🔭  Cette espace servira de laboratoire pour apprendre et partager
  🤔  Vos observations sont bienvenues!
  📫  Vous pouvez me rejoindre sur [![LinkedIn][1.2]][1]
- ⚡  ANECDOTE : Après avoir presque noyé, j'ai surmonté ma peur de l'eau en adhérant à un club de natation artistique.
+ ⚡  ANECDOTE : J'ai surmonté ma peur de l'eau en adhérant à un club de natation artistique.
  
  
  - Me llamo Celia 
@@ -44,7 +44,7 @@
  🔭  Este espacio servirá de laboratorio, para aprender y compartir.
  🤔  ¡Sus comentarios son bienvenidos!
  📫  Puedes contactarme en [![LinkedIn][1.2]][1]
- ⚡  ANÉCDOTA: Después de casi ahogarme, superé mi miedo al agua uniéndome a un club de nado artístico.
+ ⚡  ANÉCDOTA: Superé mi miedo al agua uniéndome a un club de nado artístico.
 -->
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/celsol-fuentes/celsol-fuentes/master/linkedin-3-16.png (LinkedIn icon without padding)
