@@ -1,21 +1,36 @@
-### Hi there! 👋
+### 👋 Greetings!       👋 Bonjour!       👋  ¡Saludos!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-      # EN                                            # FR                                             # ES
-🔭 My name is Celia                           🔭 Je m'appelle Celia                         🔭 Me llamo Celia
+      # EN                                           
+🔭  My name is Celia                                                  
+🌱  I'm a recent Data Science grad                    
+🔭  This space will be a lab to learn and share.                                                 
+🤔  Your feedback is welcome!                            
+📫  Find me on [![LinkedIn][3.2]][3]                   
+⚡  #Fun fact: After almost drowning, I overcame my fear of water by joining an artistic swimming club.                                   
+
+
+       # FR                                         
+ 🔭  Je m'appelle Celia
+ 🌱  Je viens de recevoir mon diplôme en Science des données
+ 🔭  Cette espace servira de laboratoire pour apprendre et partager
+ 🤔  Vos observations sont bienvenues!
+ 📫  Vous pouvez me rejoindre sur [![LinkedIn][3.2]][3]
+ ⚡  #Anecdote : Après avoir presque noyé, j'ai surmonté ma peur de l'eau en adhérant à un club de natation artistique.
  
-🌱 I am a recent Data Science grad            🌱 Je viens de recevoir mon diplôme en        🌱 Soy una graduada reciente en
-                                                 Science des données                          Ciencias de datos
-
-🔭 I'll be using this space as a lab          🔭 Cette espace servira de laboratoire        🔭  Este espacio servirá de laboratorio, 
-   to learn and share.                           pour apprendre et partager                       para aprender y compartir.
-
-🤔 Your feedback is welcome!                  🤔 Vos observations sont bienvenues!          🤔 ¡Sus comentarios son bienvenidos!
-
-📫 You can contact me on LinkedIn             📫 Vous pouvez me rejoindre sur LinkedIn      📫 Puedes contactarme en LinkedIn
-
-⚡ #Fun fact: After almost drowning,            ⚡#Anecdote : Après avoir presque noyé,        ⚡#Anécdota: Después de casi ahogarme,
-  I overcame my fear of water                    j'ai surmonté ma peur de l'eau                superé mi miedo al agua
-  by joining an artistic swimming club.          en adhérant à un club                         uniéndome a un club de natación artística.
-                                                 de natation artistique.
+ 
+      # ES
+ 🔭  Me llamo Celia
+ 🌱  Soy una graduada reciente en Ciencias de datos
+ 🔭  Este espacio servirá de laboratorio, para aprender y compartir.
+ 🤔  ¡Sus comentarios son bienvenidos!
+ 📫  Puedes contactarme en [![LinkedIn][1.2]][1]
+ ⚡  #Anécdota: Después de casi ahogarme, superé mi miedo al agua uniéndome a un club de natación artística.
 -->
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/celsol-fuentes/celsol-fuentes/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/celia-sol-fuentes/
