@@ -43,7 +43,7 @@
  
  - Me llamo Celia 
  🌱  Soy una graduada reciente en Ciencias de datos
- 🔭  Este espacio servirá de laboratorio, para aprender y compartir.
+ 🔭  Este espacio servirá de laboratorio para aprender y compartir.
  🤔  ¡Sus comentarios son bienvenidos!
  📫  Puedes contactarme en [![LinkedIn][1.2]][1]
  ⚡  ANÉCDOTA: Superé mi miedo al agua uniéndome a un club de nado artístico.
