@@ -29,7 +29,7 @@
 🌱  I'm a recent Data Science grad                    
 🔭  This space will be a lab to learn and share.                                                 
 🤔  Your feedback is welcome!                            
-📫  Find me on linkedin.com/in/celia-sol-fuentes                  
+📫  linkedin.com/in/celia-sol-fuentes                  
 ⚡  FUN FACT: I overcame my fear of water by joining an artistic swimming club.                                   
 
                                        
