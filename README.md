@@ -29,15 +29,10 @@
 🌱  I'm a recent Data Science grad                    
 🔭  This space will be a lab to learn and share.                                                 
 🤔  Your feedback is welcome!                            
-📫  Find me on [![LinkedIn][1.2]][1]                   
+📫  Find me on linkedin.com/in/celia-sol-fuentes                  
 ⚡  FUN FACT: I overcame my fear of water by joining an artistic swimming club.                                   
 
                                        
 
 -->
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/celsol-fuentes/celsol-fuentes/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to social media  -->
-
-[1]: https://www.linkedin.com/in/celia-sol-fuentes/
