@@ -26,8 +26,8 @@
 
                                          
 - My name is Celia  
-🌱  I'm a recent Data Science grad                    
-🔭  This space will be a lab to learn and share.                                                 
+🌱  I recently completed a Certificate in Applied Cybersecurity at McGill University.                  
+🔭  This space is to learn and share.                                                 
 🤔  Your feedback is welcome!                            
 📫  linkedin.com/in/celia-sol-fuentes                  
 ⚡  FUN FACT: I overcame my fear of water by joining an artistic swimming club.                                   
